@@ -1,0 +1,91 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.screeney-single-issue {
+    width: calc(100vw - 200px);
+    min-height: 89vh;
+    background: white;
+    position: absolute;
+    top: 6vh;
+    left: 0;
+    z-index: 99;
+    border: 1px #bbb solid;
+    margin-bottom: 2em;
+    display: none;
+    -webkit-box-shadow: 0px 0px 16px 1px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 16px 1px rgba(0,0,0,0.5);
+    box-shadow: 0px 0px 16px 1px rgba(0,0,0,0.5);
+}
+
+.screeney-single-issue--open {
+    display: block;
+}
+
+.screeney-single-issue__wrap {
+    padding: 4em 2em 2em;
+}
+
+.screeney-single-issue__info-wrap {
+    width: calc( 50% - 2em );
+    margin-right: 2em;
+    float: left;
+}
+
+.screeney-single-issue__image-wrap {
+    width: 50%;
+    float: left;
+}
+
+.screeney-single-issue__image-wrap img {
+    max-width: 100%;
+}
+
+.screeney-single-issue__table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.screeney-single-issue__table th {
+    padding: 8px;
+    line-height: 1.6;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    text-align: left;
+    font-weight: bold;
+    width: 30%;
+}
+
+.screeney-single-issue__table td {
+    padding: 8px;
+    line-height: 1.6;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+
+.screeney-single-issue__table--browser-info > thead:first-child > tr:first-child > th {
+    border-top: 0;
+}
+
+.screeney-single-issue__close {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.screeney-single-issue__close:hover,
+.screeney-single-issue__close:focus {
+    color: #ff0033;
+}
+
+.screeney-single-issue__buttons {
+    margin-top: 2em;
+}
+
+.screeney-settings-button {
+    margin-top: 1em !important;
+}

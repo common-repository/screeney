@@ -1,0 +1,196 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Screeney\n"
+"POT-Creation-Date: 2018-02-15 16:44+0000\n"
+"PO-Revision-Date: 2018-02-15 16:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: screeney.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: admin/class-screeney-admin.php:150 admin/partials/issues.php:19
+#: admin/partials/project.php:19 admin/partials/register.php:19
+#: admin/partials/settings.php:19 admin/partials/team.php:19
+msgid "Screeney"
+msgstr ""
+
+#: admin/partials/issues.php:23
+msgid "Screeney Settings"
+msgstr ""
+
+#: admin/partials/modal-issue.php:17
+msgid "Issue"
+msgstr ""
+
+#: admin/partials/modal-issue.php:21
+msgid "URL"
+msgstr ""
+
+#: admin/partials/modal-issue.php:27
+msgid "Date Reported"
+msgstr ""
+
+#: admin/partials/modal-issue.php:34
+msgid "Reporter Name"
+msgstr ""
+
+#: admin/partials/modal-issue.php:38
+msgid "Reporter Email"
+msgstr ""
+
+#: admin/partials/modal-issue.php:46
+msgid "View on Screeney"
+msgstr ""
+
+#: admin/partials/modal-issue.php:50
+msgid "Mark issue completed"
+msgstr ""
+
+#: admin/partials/modal-issue.php:58
+msgid "Browser Info"
+msgstr ""
+
+#: admin/partials/modal-issue.php:63
+msgid "App Code Name"
+msgstr ""
+
+#: admin/partials/modal-issue.php:69
+msgid "App Name"
+msgstr ""
+
+#: admin/partials/modal-issue.php:75
+msgid "App Version"
+msgstr ""
+
+#: admin/partials/modal-issue.php:81
+msgid "Cookie Enabled"
+msgstr ""
+
+#: admin/partials/modal-issue.php:87
+msgid "On Line"
+msgstr ""
+
+#: admin/partials/modal-issue.php:93
+msgid "Platform"
+msgstr ""
+
+#: admin/partials/modal-issue.php:99
+msgid "User Agent"
+msgstr ""
+
+#: admin/partials/modal-issue.php:105
+msgid "Language"
+msgstr ""
+
+#: admin/partials/modal-issue.php:111
+msgid "Inner Height"
+msgstr ""
+
+#: admin/partials/modal-issue.php:117
+msgid "Inner Width"
+msgstr ""
+
+#: admin/partials/modal-issue.php:123
+msgid "Outer Height"
+msgstr ""
+
+#: admin/partials/modal-issue.php:129
+msgid "Outer Width"
+msgstr ""
+
+#: admin/partials/modal-issue.php:135
+msgid "Scroll X"
+msgstr ""
+
+#: admin/partials/modal-issue.php:141
+msgid "Scroll Y"
+msgstr ""
+
+#: admin/partials/modal-issue.php:147
+msgid "Plugins"
+msgstr ""
+
+#: admin/partials/project.php:21
+msgid "Choose which project you're connecting to:"
+msgstr ""
+
+#: admin/partials/project.php:26
+msgid "Select Project:"
+msgstr ""
+
+#: admin/partials/project.php:32
+msgid "Choose Project"
+msgstr ""
+
+#: admin/partials/register.php:21
+msgid "To start using this plugin you'll need to authenticate with Screeney."
+msgstr ""
+
+#: admin/partials/register.php:24
+msgid "Authenticate"
+msgstr ""
+
+#: admin/partials/settings.php:23
+msgid "Screeney Issues"
+msgstr ""
+
+#: admin/partials/settings.php:28
+msgid "Choose who can see Screeney (selecting none will show to everyone)"
+msgstr ""
+
+#: admin/partials/settings.php:36
+msgid "Update"
+msgstr ""
+
+#: admin/partials/team.php:21
+msgid "Choose which team you're connecting to:"
+msgstr ""
+
+#: admin/partials/team.php:26
+msgid "Select Team:"
+msgstr ""
+
+#: admin/partials/team.php:32
+msgid "Choose Team"
+msgstr ""
+
+#: includes/class-screeney-issue-table.php:19
+msgid "Issue Name"
+msgstr ""
+
+#: includes/class-screeney-issue-table.php:20
+msgid "Issue Added"
+msgstr ""
+
+#: includes/class-screeney-issue-table.php:21
+msgid "Issue Completed"
+msgstr ""
+
+#: includes/class-screeney-issue-table.php:86
+msgid "No"
+msgstr ""
+
+#: includes/class-screeney-issue-table.php:86
+msgid "Yes"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://screeney.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Connects your website with the Screeney bug tracking application."
+msgstr ""
